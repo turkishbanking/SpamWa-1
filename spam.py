@@ -75,8 +75,8 @@ class spam:
 		urlb="https://api.cloud.altbalaji.com/accounts/mobile/verify?domain=ID"
 		kod="62"
 		ata={
-				"country_code":kod,
-				"phone_number":self.nomer
+				"country_code":+90,
+				"phone_number"5550229497
 			}
 		head={
 			"Content-Length":f"{len(str(ata))}",
